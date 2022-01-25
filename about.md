@@ -5,7 +5,7 @@ title : About
 
 This is a simple about me page 
 
-Reason: 
+Reason:
 - its great
 - its simple 
 - its a test 
