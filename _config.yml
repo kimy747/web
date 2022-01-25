@@ -7,4 +7,4 @@ description: a wonderful site
 # Build settings 
 markdown: karmadown 
 #theme: jekyll-theme-time-machine
-theme: minima
+theme: jekyll-theme-leap-day
